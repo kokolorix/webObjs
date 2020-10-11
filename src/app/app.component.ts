@@ -7,5 +7,5 @@ import { MatCardModule} from '@angular/material/card';
   styleUrls: ['./app.component.less']
 })
 export class AppComponent {
-  title = 'angObj';
+  title = 'webObjs';
 }
